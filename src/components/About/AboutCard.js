@@ -25,7 +25,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#0077c7" }}>
-            "The person who faced more failure is better than the person who succeded more"{" "}
+            "Failure is not a problem; failing to try again is."{" "}
           </p>
           <footer className="blockquote-footer">Vavinan</footer>
         </blockquote>

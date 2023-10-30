@@ -4,10 +4,8 @@ import myImg from "../../Assets/my-image.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -39,7 +37,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="blue">Node.js</b> and
+              with
               <i>
                 <b className="blue">
                   {" "}
