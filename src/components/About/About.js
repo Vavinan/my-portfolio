@@ -42,7 +42,7 @@ function About() {
           Skills currently <strong className="blue">Learning </strong>
         </h1>
         <div>
-        <Onroad/> <p> Currently learning Figma to gain knowledge on UI/UX design</p>
+        <Onroad/> <p> Currently learning Figma to gain knowledge on UI/UX design and taking web development course on Udemy.</p> <br> <p> I am also taking AI course in python language.
         </div>
         <br/> <br/>
 
