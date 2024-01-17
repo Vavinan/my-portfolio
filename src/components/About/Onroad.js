@@ -2,6 +2,9 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import figma from "./Figma-icon.svg"
+import {
+  DiPython,
+} from "react-icons/di";
 
 
 function Onroad() {
